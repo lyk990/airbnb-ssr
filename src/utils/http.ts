@@ -32,7 +32,7 @@
 //   httpRequestPost
 // }
 
-import axios, { AxiosRequestConfig, AxiosResponse } from 'axios'\
+import axios, { AxiosRequestConfig, AxiosResponse } from 'axios'
 
 const defaultConfig = {
   timeout: 5000,
